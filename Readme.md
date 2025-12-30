@@ -3,3 +3,6 @@
 ##second line of readme
 
 #commiting to reading branch
+
+
+# learning basic git through this repo 
